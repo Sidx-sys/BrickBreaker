@@ -1,7 +1,6 @@
 # DASS Asignment-2, Brick Breaker Game
 
 ## Starting Up The Game
-- Open the Folder `2019101007`
 - enter `python3 main.py` in the terminal to run the game
   
 ## Game Description
